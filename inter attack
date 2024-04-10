@@ -1,0 +1,4 @@
+@termux adb devices
+fastboot flash reboot bootloader
+oen unlock n
+mi unlock
